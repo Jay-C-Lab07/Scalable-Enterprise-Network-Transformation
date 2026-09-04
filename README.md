@@ -525,6 +525,16 @@ Electronics and Communication Engineering graduate focused on networking, cloud 
 
 ---
 
+## 📚 Detailed Project Documentation
+
+Use these documents to study, reproduce, verify, and explain the complete project:
+
+- 🛠️ [Device Configuration Summary](Configuration/Device-Configuration-Summary.md) — Configurations performed on each device
+- ✅ [Verification Commands](Configuration/Verification-Commands.md) — Commands used to verify every technology
+- 🗺️ [IP Addressing and Port Map](Documentation/IP-Addressing-and-Port-Map.md) — Device connections, ports, VLANs, and IP addresses
+- 🔧 [Troubleshooting Report](Documentation/Troubleshooting-Report.md) — Problems encountered, root causes, solutions, and lessons learned
+- 🎓 [Interview Preparation](Documentation/Interview-Preparation.md) — Project explanation and interview questions with answers
+
 ## ⭐ Support
 
 If you found this project useful, consider giving the repository a star.
